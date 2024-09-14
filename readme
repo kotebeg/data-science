@@ -1,11 +1,13 @@
 pandas:
     pd_DataFrame_unusual_cases.ipynb
     pd_DataFrames.ipynb
-        read_csv
-        
+        * read_csv
+        * column/columns filtering
+        * manipulations on columns (add, divide ....)
+
         ...
-        read_excel...
-        read_excel_sheets..
+        > read_excel...
+        > read_excel_sheets..
     pd_series.
 
 other:..
