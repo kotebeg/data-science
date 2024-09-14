@@ -1,9 +1,10 @@
 pandas:
-    pd_DataFrame_unusual_cases.ipynb
+-pd_DataFrame_unusual_cases.ipynb
     pd_DataFrames.ipynb
         * read_csv
         * column/columns filtering
         * manipulations on columns (add, divide ....)
+        * Insert column into DataFrame at specified location.
 
         ...
         > read_excel...
