@@ -1,3 +1,6 @@
-# some pandas tips
+pandas:
+    pd_DataFrame_unusual_cases.ipynb
+    pd_DataFrames.ipynb
+    pd_series.
 
-some minor changes
+other:..
