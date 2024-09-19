@@ -4,6 +4,7 @@ pandas:
     pd_DataFrames.ipynb
         * read_csv
         * column/columns filtering
+        * columns conditional filtering based other column condition
         * manipulations on columns (add, divide ....)
         * Insert column into DataFrame at specified location.
 
