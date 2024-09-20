@@ -9,6 +9,7 @@ pandas:
         * Insert column into DataFrame at specified location.
         * set index column values as index
         * reset index... 
+        * index location and label location  (iloc, loc)
 
         .
         .
