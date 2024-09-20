@@ -10,6 +10,8 @@ pandas:
         * set index column values as index
         * reset index... 
         * index location and label location  (iloc, loc)
+        * slicing with iloc and loc
+        
 
         .
         .
