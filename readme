@@ -7,13 +7,14 @@ pandas:
         * columns conditional filtering based other column condition
         * manipulations on columns (add, divide ....)
         * Insert column into DataFrame at specified location.
-        * set column values as index
+        * set index column values as index
+        * reset index... 
 
         .
         .
         .
 
-        
+
         ...
         > read_excel...
         > read_excel_sheets..
