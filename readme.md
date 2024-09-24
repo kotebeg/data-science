@@ -19,7 +19,7 @@
 - 
 - 
 
-> read_excel...
-> ead_excel_sheets..
-> pd_series.
-> other:..
+> read_excel..<br>
+> ead_excel_sheets..<br>
+> pd_series..<br>
+> other:..<br>
