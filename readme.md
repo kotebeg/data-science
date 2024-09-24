@@ -5,10 +5,11 @@
 
 ***<span style="color:red">pd_DataFrames.ipynb</span>***
 - read_csv
-- filter column/columns 
-- filter based other column condition columns conditional 
-- filter if str is in columns
-- filter if string is not in column
+- `filter` column/columns 
+- `filter` based other column condition columns conditional 
+- `filter` if str is in columns
+- `filter` if string is not in column
+- `filter` a Pandas dataframe where a specific column contains the substring
 - manipulations on columns (add, divide ....)
 - Insert column into DataFrame at specified location.
 - set index column values as index
