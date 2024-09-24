@@ -2,7 +2,9 @@
 ***pd_DataFrame_unusual_cases.ipynb***
 - `replace` "" tr with None,   replace method
 
-***<span style="color:blue">pd_DataFrames.ipynb</span>***
+<span style="color:red">pd_DataFrames.ipynb</span>
+
+***<span style="color:red">pd_DataFrames.ipynb</span>***
 - read_csv
 - filter column/columns 
 - filter based other column condition columns conditional 
