@@ -1,8 +1,7 @@
 # pandas
 ***pd_DataFrame_unusual_cases.ipynb***
-- `replace` "" tr with None,   replace method
+- `replace` "" str with `None`,   replace method
 
-<span style="color:red;">pd_DataFrames.ipynb</span>
 
 ***<span style="color:red">pd_DataFrames.ipynb</span>***
 - read_csv
