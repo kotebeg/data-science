@@ -1,8 +1,8 @@
-# pandas:
-**pd_DataFrame_unusual_cases.ipynb** <br>
+# pandas
+***pd_DataFrame_unusual_cases.ipynb***
 - `replace` "" tr with None,   replace method
 
-## pd_DataFrames.ipynb
+***pd_DataFrames.ipynb***
 - read_csv
 - filter column/columns 
 - filter based other column condition columns conditional 
@@ -14,13 +14,12 @@
 - reset index... 
 - index location and label location  (iloc, loc)
 - slicing with iloc and loc
+- 
+- 
+- 
+- 
 
-.
-.
-.
-...
-> read_excel...
-    > read_excel_sheets..
+read_excel...
+ead_excel_sheets..
 pd_series.
-
 other:..
