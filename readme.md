@@ -1,5 +1,5 @@
 pandas:
-    pd_DataFrame_unusual_cases.ipynb
+    ***pd_DataFrame_unusual_cases.ipynb*** [^1]
         * replace "" tr with None,   replace method
     pd_DataFrames.ipynb
         * read_csv
