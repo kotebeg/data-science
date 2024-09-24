@@ -1,8 +1,8 @@
 # pandas:
 **pd_DataFrame_unusual_cases.ipynb** <br>
-*replace "" tr with None,   replace method <br><br>
+- `replace` "" tr with None,   replace method
 
-pd_DataFrames.ipynb
+## pd_DataFrames.ipynb
 - read_csv
 - filter column/columns 
 - filter based other column condition columns conditional 
