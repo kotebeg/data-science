@@ -1,6 +1,7 @@
 # pandas
 ***pd_DataFrame_unusual_cases.ipynb***
 - `replace` "" str with `None`,   replace method
+- restructure nested dictionary to pandas dataframe
 
 
 ***<span style="color:red">pd_DataFrames.ipynb</span>***
