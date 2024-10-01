@@ -21,7 +21,7 @@
 - reset index... 
 - index location and label location  (iloc, loc)
 - slicing with iloc and loc
-- 
+- append one row horizontal (axes = 0)
 - 
 - 
 - 
