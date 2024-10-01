@@ -24,7 +24,7 @@
 - append/concat one row horizontal
 - `drop` rows
 - `drop` column
-- 
+- `Filter` by single condition
 - 
 -
 
