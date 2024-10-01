@@ -11,3 +11,5 @@
 - Sqrt data hist
 - log data hist
 - BoxCox data hist
+
+**time_serise_simulation.ipynb** 
