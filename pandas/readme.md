@@ -22,7 +22,7 @@
 - index location and label location  (iloc, loc)
 - slicing with iloc and loc
 - append/concat one row horizontal
-- 
+- drop rows
 - 
 - 
 
