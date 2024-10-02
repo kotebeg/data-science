@@ -27,7 +27,7 @@
 - `Filter` by single condition
 - `Filter` by multiple condition
 - `Filter` with `.isin()` method
--
+- `Filter` substring Using `str.contains(substring)`
 -
 -
 -
@@ -41,7 +41,7 @@
 
 
 
-
+> `regular` expression pattern
 > read_excel..<br>
 > ead_excel_sheets..<br>
 > pd_series..<br>
