@@ -25,8 +25,22 @@
 - `drop` rows
 - `drop` column
 - `Filter` by single condition
-- 
+- `Filter` by multiple condition
 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+
 
 > read_excel..<br>
 > ead_excel_sheets..<br>
