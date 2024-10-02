@@ -26,7 +26,7 @@
 - `drop` column
 - `Filter` by single condition
 - `Filter` by multiple condition
--
+- `Filter` with `.isin()` method
 -
 -
 -
