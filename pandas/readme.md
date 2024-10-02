@@ -28,7 +28,7 @@
 - `Filter` by multiple condition
 - `Filter` with `.isin()` method
 - `Filter` substring Using `str.contains(substring)`
-- `apply()`
+- `apply()` single column
 - `apply()` using `lambda`
 -
 -
