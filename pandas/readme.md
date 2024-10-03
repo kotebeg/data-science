@@ -28,8 +28,10 @@
 - `Filter` by multiple condition
 - `Filter` with `.isin()` method
 - `Filter` substring Using `str.contains(substring)`
-- `apply()` single column
-- `lambda` function
+- `apply()` ***single*** column
+- `lambda`  function
+- `lambda`  ***single*** column
+- `apply()` ***multible*** column
 - `apply()` using `lambda` signle column
 -
 -
