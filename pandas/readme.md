@@ -29,6 +29,7 @@
 - `Filter` with `.isin()` method
 - `Filter` substring Using `str.contains(substring)`
 - `apply()` single column
+- `lambda` function
 - `apply()` using `lambda` signle column
 -
 -
