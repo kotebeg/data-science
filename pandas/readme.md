@@ -35,9 +35,9 @@
 - `lambda` with `assign` method
 - `apply()` ***multible*** column using `lambda`
 -  filter ***multible*** column using `np.vectorize` 
--
--
--
+-  time testing `timeit` module
+-  `sort` one ***column***
+-  `sort` multiple ***column***
 -
 -
 -
