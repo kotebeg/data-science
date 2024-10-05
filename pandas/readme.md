@@ -43,9 +43,9 @@
 -
 -
 
-
-> `Dataframe.assign()` 
-> `regular` expression pattern
+> 
+> `Dataframe.assign()`  <br>
+> `regular` expression pattern <br>
 > read_excel..<br>
 > ead_excel_sheets..<br>
 > pd_series..<br>
