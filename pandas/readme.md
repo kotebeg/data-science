@@ -31,9 +31,9 @@
 - `apply()` ***single*** column
 - `lambda`  function
 - `lambda`  ***single*** column
-- `apply()` ***multible*** column
-- `apply()` using `lambda` signle column
--
+- `lambda` with `assign` method
+- `apply()` ***multible*** column using `lambda`
+-  filter ***multible*** column using `np.vectorize` 
 -
 -
 -
