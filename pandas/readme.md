@@ -30,7 +30,8 @@
 - `Filter` substring Using `str.contains(substring)`
 - `apply()` ***single*** column
 - `lambda`  function
-- `lambda`  ***single*** column
+- `DataFrame.apply` using `lambda` single ***column***
+- `DataFrame.apply` using `lambda` single ***row*** conditional
 - `lambda` with `assign` method
 - `apply()` ***multible*** column using `lambda`
 -  filter ***multible*** column using `np.vectorize` 
