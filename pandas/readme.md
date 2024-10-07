@@ -38,6 +38,7 @@
 -  time testing `timeit` module
 -  `sort` one ***column***
 -  `sort` multiple ***column***
+- `max`,  `idxmax`, `min`, `idxmin` value
 -  DataFrame `correlation`
 -
 -
