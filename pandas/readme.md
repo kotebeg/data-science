@@ -40,7 +40,7 @@
 -  `sort` multiple ***column***
 - `max`,  `idxmax`, `min`, `idxmin` value
 -  DataFrame `correlation`
--
+- `Series.value_counts()`,    `Series.unique()` 
 -
 -
 
