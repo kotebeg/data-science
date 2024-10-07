@@ -41,7 +41,7 @@
 - `max`,  `idxmax`, `min`, `idxmin` value
 -  DataFrame `correlation`
 - `Series.value_counts()`, `Series.unique()`, `Series.nunique()`  
--
+- `Series.replace('some_string', 'ss')`
 -
 
 > 
