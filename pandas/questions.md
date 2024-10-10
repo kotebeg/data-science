@@ -55,8 +55,8 @@ The main subjects covered in the lecture on missing data are:
 4. **Pros and Cons**: Discussion on the advantages and drawbacks of each method.
 5. **Feature Engineering and Domain Knowledge**: Importance of domain expertise when deciding on handling missing data.
 
-20 questions:
 
+### Conceptual Questions:
 1. What are the three main options for dealing with missing data?
 2. Why can missing data cause problems for machine learning models?
 3. How does pandas represent missing values by default?
