@@ -129,6 +129,3 @@ Consider two sets of test scores:
 Both sets have the same mean (90), but Set B has a higher standard deviation because the scores are more spread out.
 
 **In summary,** standard deviation is a valuable metric for understanding the distribution of data and making informed decisions based on that information.
- 
-**Would you like to see an example calculation or learn more about its applications in a specific field?**
-
