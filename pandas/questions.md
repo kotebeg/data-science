@@ -26,4 +26,21 @@ Here are 20 questions, including both conceptual and coding questions, about the
 19. How can you filter a DataFrame to only include rows where the "total_bill" is between 10 and 50, inclusive?
 20. Write a code snippet to find the 5 smallest values in the "tip" column.
 
-Let me know if you want further explanation or example solutions!
+
+### more complex Coding Questions:
+
+1. Write a Pandas script that reads a CSV file, sorts the DataFrame by multiple columns (`tip` and `size`), and returns the top 5 rows.
+2. Using `df.corr()`, create a heatmap of the correlation matrix for numeric columns in a DataFrame.
+3. How would you filter a DataFrame to return rows where the `tip` value is in the top 10% of the entire dataset?
+4. Write a function that takes a Pandas DataFrame and returns the row with the smallest `total_bill` value using both `nsmallest()` and `idxmin()`. 
+5. Using Pandas, how can you create a copy of a DataFrame but only with rows that do **not** have any duplicated values in the `tip` column?
+6. How would you compute the correlation coefficient between `tip` and `total_bill` for a subset of the data where the `total_bill` is greater than 20?
+7. Write a Pandas script that replaces all null values in a DataFrame's `total_bill` column with the column's median, but only if `total_bill` has at least 10 null values.
+8. Create a function that takes a DataFrame and a column name, and returns a new DataFrame where the column values are sorted in descending order, along with their index locations (`idxmax`).
+9. Using the `between()` method, write a Pandas function that returns all rows where the `size` column is between 2 and 5 (inclusive), but only if the `total_bill` is greater than the dataset's average.
+10. Write a function that takes a DataFrame and column name and returns the number of unique values in that column, using the `unique()`, `nunique()`, and `value_counts()` methods.
+11. Write a script that replaces values in the `sex` column (where "female" becomes "F" and "male" becomes "M"), but instead of replacing them directly, uses a mapping dictionary passed as an argument to the function.
+12. Implement a Pandas script that drops rows where the `size` and `tip` columns have the exact same value for multiple rows, leaving only the first occurrence.
+13. Write a function that selects a random sample from a DataFrame, but ensures that the sampling maintains a proportionate distribution of values from the `day` column (i.e., stratified sampling).
+14. Using Pandas, write a script that sorts by `tip` in descending order, then selects the largest 10 rows and returns the average `total_bill` for these rows.
+15. Write a Pandas function that performs a left join between two DataFrames, filters for rows where the `total_bill` in the left DataFrame is less than the `total_bill` in the right DataFrame, and returns the resulting DataFrame. 
