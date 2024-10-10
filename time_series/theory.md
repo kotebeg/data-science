@@ -79,3 +79,40 @@ plt.show()
 - **Rolling Correlation**: The rolling correlation plot will show changes in correlation over time. Before the change point (index 50), the correlation should be low, and after the change point, it should increase.
 
 By following these steps, you can effectively identify and analyze the emerging correlation between two time series signals, especially in scenarios where one signal influences the other over time.
+
+
+
+## Detecting Correlation in Time Series Signals
+
+**Understanding the Problem:**
+You're describing a scenario where two time series signals initially have no correlation, but a change in one signal later causes a change in the other. This is a common problem in various fields, especially in signal processing and telecommunications.
+
+**Methods for Detection:**
+
+1. **Cross-Correlation:**
+   * Calculate the cross-correlation function between the two signals. This measures the similarity between the two signals at different time lags.
+   * If a significant peak appears in the cross-correlation function at a particular lag, it indicates a correlation between the two signals at that lag.
+   * **Note:** A high correlation at a positive lag suggests that changes in the first signal precede changes in the second signal.
+
+2. **Granger Causality Test:**
+   * This statistical test determines if one time series can predict another.
+   * If a change in one signal consistently precedes a change in the other, and this relationship cannot be explained by other factors, it suggests a causal relationship.
+
+3. **Transfer Entropy:**
+   * This measures the information flow from one time series to another.
+   * A high transfer entropy value indicates that changes in one signal are influencing changes in the other.
+
+4. **Convolutional Neural Networks (CNNs):**
+   * For complex patterns or non-linear relationships, CNNs can be used to learn the relationship between the two signals.
+   * The network can be trained to predict the response of one signal based on the other.
+
+**Additional Considerations:**
+
+* **Time Lag:** Determine the appropriate time lag to analyze the correlation. A significant lag might indicate a delay in the effect of one signal on the other.
+* **Noise:** Consider the presence of noise in the signals. Noise can affect the accuracy of correlation measures. Techniques like filtering or noise reduction can be applied.
+* **Stationarity:** Check if the signals are stationary. Non-stationary signals might require transformations or specialized techniques.
+* **Multiple Factors:** Be aware that there might be other factors influencing the signals. Consider controlling for or accounting for these factors.
+
+By applying these methods and carefully considering the factors mentioned above, you can effectively detect and analyze the correlation between two time series signals, even in cases where the relationship is delayed or influenced by other factors.
+ 
+**Would you like to delve deeper into any of these methods or discuss a specific application?**
