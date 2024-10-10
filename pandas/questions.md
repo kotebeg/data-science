@@ -44,3 +44,6 @@ Here are 20 questions, including both conceptual and coding questions, about the
 13. Write a function that selects a random sample from a DataFrame, but ensures that the sampling maintains a proportionate distribution of values from the `day` column (i.e., stratified sampling).
 14. Using Pandas, write a script that sorts by `tip` in descending order, then selects the largest 10 rows and returns the average `total_bill` for these rows.
 15. Write a Pandas function that performs a left join between two DataFrames, filters for rows where the `total_bill` in the left DataFrame is less than the `total_bill` in the right DataFrame, and returns the resulting DataFrame. 
+
+
+## 30. Missing Data - Overview
