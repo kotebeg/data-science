@@ -141,6 +141,7 @@ The 25th percentile, 50th percentile (median), and 75th percentile **don’t add
 These are **cumulative**, not separate parts that you add together.
 
 
+# Correlation
 Here’s a scatter plot demonstrating the correlation between two arrays, \( \text{arr1} \) and \( \text{arr2} \):
 
 ### Chart Explanation:
@@ -164,3 +165,5 @@ Where:
 
 ### Proof of Correlation:
 The above plot visually represents a linear relationship between the two arrays, confirming that as \( \text{arr1} \) increases, \( \text{arr2} \) also tends to increase, hence a positive correlation.
+
+If you have any specific questions or need further examples, feel free to ask!
