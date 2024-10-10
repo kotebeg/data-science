@@ -139,3 +139,28 @@ The 25th percentile, 50th percentile (median), and 75th percentile **don’t add
 - The **75th percentile** means 75% of values are below or equal to 24.1275.
 
 These are **cumulative**, not separate parts that you add together.
+
+
+Here’s a scatter plot demonstrating the correlation between two arrays, \( \text{arr1} \) and \( \text{arr2} \):
+
+### Chart Explanation:
+- **Scatter Plot**: The blue dots represent data points where each dot corresponds to a pair of values from \( \text{arr1} \) (x-axis) and \( \text{arr2} \) (y-axis).
+- **Correlation Coefficient**: The calculated correlation coefficient between these two arrays is displayed in the title. A value close to 1 indicates a strong positive correlation, while a value close to -1 indicates a strong negative correlation.
+
+### Correlation Formula:
+The correlation coefficient \( r \) is calculated using the formula:
+
+\[
+r = \frac{n(\sum xy) - (\sum x)(\sum y)}{\sqrt{[n\sum x^2 - (\sum x)^2][n\sum y^2 - (\sum y)^2]}}
+\]
+
+Where:
+- \( n \) = number of paired scores
+- \( \sum xy \) = sum of the product of paired scores
+- \( \sum x \) = sum of x scores
+- \( \sum y \) = sum of y scores
+- \( \sum x^2 \) = sum of squared x scores
+- \( \sum y^2 \) = sum of squared y scores
+
+### Proof of Correlation:
+The above plot visually represents a linear relationship between the two arrays, confirming that as \( \text{arr1} \) increases, \( \text{arr2} \) also tends to increase, hence a positive correlation.
