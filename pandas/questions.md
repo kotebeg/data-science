@@ -129,3 +129,13 @@ Consider two sets of test scores:
 Both sets have the same mean (90), but Set B has a higher standard deviation because the scores are more spread out.
 
 **In summary,** standard deviation is a valuable metric for understanding the distribution of data and making informed decisions based on that information.
+
+## percentile
+
+The 25th percentile, 50th percentile (median), and 75th percentile **don’t add up** to 100% in the way you're thinking. Percentiles represent **positions** in the data, not parts of a whole.
+
+- The **25th percentile** means 25% of values are below or equal to 13.3475.
+- The **50th percentile (median)** means 50% of values are below or equal to 17.795.
+- The **75th percentile** means 75% of values are below or equal to 24.1275.
+
+These are **cumulative**, not separate parts that you add together.
