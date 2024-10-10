@@ -47,3 +47,33 @@ Here are 20 questions, including both conceptual and coding questions, about the
 
 
 ## 30. Missing Data - Overview
+The main subjects covered in the lecture on missing data are:
+
+1. **Overview of Missing Data Options**: The instructor discusses three main approaches—keeping, removing, or replacing missing data.
+2. **Impact on Models**: Missing data can affect machine learning and statistical methods.
+3. **Pandas Handling of Missing Data**: Using NaN, pd.NaT for timestamps, and handling missing values with specific methods in pandas.
+4. **Pros and Cons**: Discussion on the advantages and drawbacks of each method.
+5. **Feature Engineering and Domain Knowledge**: Importance of domain expertise when deciding on handling missing data.
+
+20 questions:
+
+1. What are the three main options for dealing with missing data?
+2. Why can missing data cause problems for machine learning models?
+3. How does pandas represent missing values by default?
+4. What does the NaN value in pandas stand for?
+5. What is pd.NaT in pandas used for?
+6. Why might pd.NaT be a useful replacement for NaN in some cases?
+7. What are the pros of keeping missing data as NaN?
+8. What are the cons of leaving missing data as NaN?
+9. Why might a NaN value sometimes represent a zero?
+10. What are the pros of removing missing data from a dataset?
+11. What are the cons of dropping rows or columns with missing data?
+12. How can dropping a feature column limit future models?
+13. When does it make sense to drop a row with missing data?
+14. When is it more appropriate to drop a column with missing data instead of rows?
+15. What are the advantages of filling in missing data?
+16. What are the cons of filling in missing data?
+17. What does it mean to fill missing data with an interpolated value?
+18. Why is filling missing data with a guess sometimes risky?
+19. In what situations might it be appropriate to fill missing data with zeros?
+20. What are the challenges associated with making assumptions when filling missing data?
