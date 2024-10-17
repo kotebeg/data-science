@@ -48,7 +48,7 @@
 - `pandas.DataFrame.sample`
 - ***missing data***
 - `DataFrame..isnull(); DataFrame..notnull(); `
--
+- `df['pre_movie_score'].isnull()) & (df['first_name'].notnull())` conditional filtering
 -
 
 
