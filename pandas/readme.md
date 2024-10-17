@@ -47,7 +47,7 @@
 - `pandas.DataFrame.nlargest/nsmallest`
 - `pandas.DataFrame.sample`
 - ***missing data***
-- new data
+- `DataFrame..isnull(); DataFrame..notnull(); `
 -
 -
 
