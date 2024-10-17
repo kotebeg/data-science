@@ -42,7 +42,18 @@
 -  DataFrame `correlation`
 - `Series.value_counts()`, `Series.unique()`, `Series.nunique()`  
 - `Series.replace('some_string', 'ss')`
+- `Series.dubpicated()`
+- `Series.between(left, right, inclusive='both')`
+- `pandas.DataFrame.nlargest/nsmallest`
+- `pandas.DataFrame.sample`
 -
+-
+-
+-
+
+
+
+
 
 > 
 > `Dataframe.assign()`  <br>
