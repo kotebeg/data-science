@@ -51,10 +51,10 @@
 - `df['pre_movie_score'].isnull()) & (df['first_name'].notnull())` conditional filtering
 - keep data, drop data, fill data
 - `df.dropna()`
--
--
--
--
+- `DataFrame..isnull(); DataFrame..notnull(); `
+- `df['pre_movie_score'].isnull()) & (df['first_name'].notnull())` conditional filtering
+- keep data, drop data, fill data
+- `df.dropna(thresh=1)`
 -
 -
 -
