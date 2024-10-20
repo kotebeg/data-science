@@ -55,6 +55,19 @@
 - `df['pre_movie_score'].isnull()) & (df['first_name'].notnull())` conditional filtering
 - keep data, drop data, fill data
 - `df.dropna(thresh=1)`
+- `df.dropna(subset=['coolumn_name'])`
+- `pandas.DataFrame.fillna('new_value')`
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 -
 -
 -
