@@ -59,7 +59,7 @@
 - `pandas.DataFrame.fillna('new_value')`
 - `pandas.Series.interpolate`
 - `pandas.DataFrame.groupby()`
-- 
+- `groupby` with `loc`
 -
 -
 -
