@@ -58,8 +58,8 @@
 - `df.dropna(subset=['coolumn_name'])`
 - `pandas.DataFrame.fillna('new_value')`
 - `pandas.Series.interpolate`
--
--
+- `pandas.DataFrame.groupby()`
+- 
 -
 -
 -
