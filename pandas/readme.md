@@ -60,7 +60,7 @@
 - `pandas.Series.interpolate`
 - `pandas.DataFrame.groupby()`
 - `groupby` with `loc`
--
+- pandas dataframe to python `dict`
 -
 -
 -
