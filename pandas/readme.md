@@ -6,6 +6,7 @@
 
 ***<span style="color:red">pd_DataFrames.ipynb</span>***
 - read_csv
+- renaming columns `DataFrame.rename()`
 - `filter` column/columns 
 - `filter` based other column condition columns conditional 
 - `filter` if str is in columns
