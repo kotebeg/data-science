@@ -14,7 +14,7 @@
 - `filter` a Pandas dataframe where a specific column contains the substring
 - `filter` a Pandas dataframe where a specific column **does not** contains the substring
 - `filter` column with conditional with `or` ith (`|`) keyword
-- `convert`  column to integer using `pd.to_numeric()`
+- `convert`  column of `string` values to integer using `pd.to_numeric()`
 - `Convert` with `astype()`
 - manipulations on columns (add, divide ....)
 - Insert column into DataFrame at specified location.
