@@ -24,6 +24,7 @@
 - slicing with iloc and loc
 - filtering with `loc`
 - fill missing/null/Nan value with `loc`
+- fill missing/null/Nan value with `NumPy `  `where`
 - append/concat one row horizontal
 - `drop` rows
 - `drop` column
