@@ -23,6 +23,7 @@
 - index location and label location  (iloc, loc)
 - slicing with iloc and loc
 - filtering with `loc`
+- fill missing/null/Nan value with `loc`
 - append/concat one row horizontal
 - `drop` rows
 - `drop` column
